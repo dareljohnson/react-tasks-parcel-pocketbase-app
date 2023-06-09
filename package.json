@@ -1,0 +1,33 @@
+{
+  "name": "react-parcel-tasks-pocketbase-app",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --dist-dir public",
+    "check": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "Darel Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui/react": "^1.7.15",
+    "@heroicons/react": "^2.0.18",
+    "@parcel/transformer-svg-react": "^2.9.2",
+    "@types/react": "^18.2.9",
+    "@types/react-dom": "^18.2.4",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-typescript-tsc": "^2.9.2",
+    "parcel": "^2.9.2",
+    "process": "^0.11.10",
+    "typescript": "^5.1.3"
+  }
+}
