@@ -18,6 +18,11 @@ Requirements:
 - tailwindcss v3.3.2s
 - TypeScript v5.1.3
 
+Optional:
+
+pocketbase: 
+https://pocketbase.io/
+
 ## How to Use the Project
 
 On your Windows file system create a new project folder:
