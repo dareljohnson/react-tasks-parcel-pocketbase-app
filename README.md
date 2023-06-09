@@ -15,7 +15,7 @@ You can clone this project and sjkip the stetp-by-step instructions to develop f
 ```
 
 
-## How to Install and setup the project step-by-step
+## How to install and setup the project step-by-step
 
 Requirements:
 
