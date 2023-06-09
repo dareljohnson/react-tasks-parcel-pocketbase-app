@@ -6,7 +6,16 @@
 
 This repository contains the source code to develop and build a fully functional React app, using Parcel as a package management and build system, and pocketbase as a backend system.
 
-## How to Install
+## How to Use the Project
+
+You can clone this project and sjkip the stetp-by-step instructions to develop from scratch.
+
+```
+ git clone https://github.com/dareljohnson/react-tasks-parcel-pocketbase-app
+```
+
+
+## How to Install and setup the project step-by-step
 
 Requirements:
 
@@ -23,7 +32,7 @@ Optional:
 pocketbase: 
 https://pocketbase.io/
 
-## How to Use the Project
+## Step-by-step instructions
 
 On your Windows file system create a new project folder:
 
