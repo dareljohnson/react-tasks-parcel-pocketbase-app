@@ -6,6 +6,23 @@
 
 This repository contains the source code to develop and build a fully functional React app, using Parcel as a package management and build system, and pocketbase as a backend system.
 
+## Assumptions
+
+I assume you are developing this project on a Microsoft Windows PC. A built-in Windows tool like notepad.exe is used in this project to create and edit files. If you are developing on Linux, you can use vim.
+
+```
+notepad .gitignore
+```
+
+On Linux:
+
+```
+vim .gitignore
+```
+
+
+You can also use a modern code editor like VSCode to follow along with this course.
+
 ## How to Use the Project
 
 You can clone this project and sjkip the stetp-by-step instructions to develop from scratch.
