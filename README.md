@@ -23,12 +23,25 @@ vim .gitignore
 
 You can also use a modern code editor like VSCode to follow along with this course.
 
+
 ## How to Use the Project
 
-You can clone this project and sjkip the stetp-by-step instructions to develop from scratch.
+You can clone this project and skip the step-by-step instructions to develop from scratch.
 
 ```
  git clone https://github.com/dareljohnson/react-tasks-parcel-pocketbase-app
+```
+
+Initialze a local git repository:
+
+```
+git init
+```
+
+Install dependencies:
+
+```
+npm install
 ```
 
 
@@ -420,6 +433,9 @@ npm run build
 This will create a new directory called "public" in the root directory.
 
 /public
+
+Copy all files in the /public directory to the www_root directory on your web hosting provider.
+
 
 ## Include Credits
 
