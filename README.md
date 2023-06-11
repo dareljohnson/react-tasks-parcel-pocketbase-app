@@ -226,6 +226,15 @@ Add Inter Font family for all tailwind UI examples to index.html:
 <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 ```
 
+Create an Assets directory:
+
+```
+mkdir ./src/assets
+```
+
+...and copy the react logo into the assets directory
+
+
 Add favicon icon (https://www.favicon.cc/):
 
 Download favicon and copy and paste to /src/assets directory
@@ -391,13 +400,7 @@ Update package.json file:
 }
 ```
 
-Create an Assets directory:
 
-```
-mkdir ./src/assets
-```
-
-...and copy the react logo into the assets directory
 
 Create a README.md file 
 
